@@ -3,6 +3,7 @@ Rare Earths Web - Android App
 
 ## Description
 I'm glad to upload my first android app ever made. It's a simply app showing my own Website, where I will collect the ideas I would like to share with you. This is the result of an intense hobby started almost one year ago.
+Please, note that the app is for Android only.
 
 ## Pictures
 <img width="1080" height="2098" alt="screen1" src="https://github.com/user-attachments/assets/7d58b43e-47e7-4405-9412-a5fc69cf68a7" />

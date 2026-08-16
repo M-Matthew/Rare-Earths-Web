@@ -11,17 +11,17 @@ I'm glad to provide you my first android app I ever made. It's a simply app show
 - This app has been tested with VirusTotal. Results are at the page bottom.
 
 ## Screenshots
-<img width="270" height="585" alt="screen1" src="https://github.com/user-attachments/assets/7d58b43e-47e7-4405-9412-a5fc69cf68a7" /> <img width="585" height="2094" alt="screen2" src="https://github.com/user-attachments/assets/f18c6f25-83c2-4bb2-8e7d-892ca73065a6" />
+<img width="270" height="585" alt="screen1" src="https://github.com/user-attachments/assets/7d58b43e-47e7-4405-9412-a5fc69cf68a7" /> <img width="270" height="585" alt="screen2" src="https://github.com/user-attachments/assets/f18c6f25-83c2-4bb2-8e7d-892ca73065a6" />
 
 ## VirusTotal Scan
-This app has been tested with VirusTotal. The results are available here.
+This app has been tested with VirusTotal. The results are available here: 
 [VirusTotal Scan Results.](https://www.virustotal.com/gui/file/e3e2134d411cad7c21c1f9de9b828ddd9ab4ec7bcc8149cbf016694b986c4c7a?nocache=1)
 
 <img width="1208" height="184" alt="virusTotal" src="https://github.com/user-attachments/assets/eb85514f-e166-4980-9960-6078c371eee1" />
 <img width="358" height="68" alt="virusTotal2" src="https://github.com/user-attachments/assets/a5107bf2-eb4d-44ee-9b0a-322768acb68c" />
 
-## Link
-You will find more apps and products on my official [Rare Earths Website.](https://rareearths.carrd.co)
+## Links
+You will find more apps and products on my official [*Rare Earths Website.*](https://rareearths.carrd.co)
 
 ## Donations
 This project and all other projects on my website are not part of my job. It's a passionate hobby, which also involves some costs (hardware, plans, textbooks, online tutorials, ...). If you'd participate to my financial sacrifices buying me a coffee, I will appreciate.

@@ -1,5 +1,5 @@
 # Rare Earths Website *(v1.0.0, uploaded on 08.08.2026)*
-I want to realize my own ideas and this site will collect all of them. Apps, retro games, games and books are the topics! I feel like my ideas are precious and rare, that's why I chose the name "Rare Earths".
+I want to realize my own ideas and my website will collect all of them. Apps, retro games, games and books are the topics! I feel like my ideas are precious and rare, that's why I chose the name "Rare Earths".
 
 ## Description
 I'm glad to provide you my first android app I ever made. It's a simply app showing my own Website, where I will collect the ideas I would like to share with you. This is the result of an intense hobby started almost one year ago.

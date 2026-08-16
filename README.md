@@ -25,4 +25,4 @@ You will find more apps and products on my official [**Rare Earths Website.**](h
 
 ## Donations
 This project and all other projects on my website are not part of my job. It's a passionate hobby, which also involves some costs (hardware, plans, textbooks, online tutorials, ...). If you'd participate to my financial sacrifices buying me a coffee, I will appreciate.
-# [DONATE](https://www.paypal.com/paypalme/RareEarths)
+# [**DONATE**](https://www.paypal.com/paypalme/RareEarths)

@@ -24,5 +24,5 @@ This app has been tested with VirusTotal. The results are available here:
 You will find more apps and products on my official [**Rare Earths Website.**](https://rareearths.carrd.co)
 
 ## Donations
-This project and all other projects on my website are not part of my job. It's a passionate hobby, which also involves some costs (hardware, plans, textbooks, online tutorials, ...). If you'd participate to my financial sacrifices buying me a coffee, I will appreciate.
+This project and all other projects on my website are not part of my job. It's a passionate hobby, which also involves some costs (hardware, plans, textbooks, online tutorials, access to marketplaces, ...). If you'd participate to my financial sacrifices buying me a coffee, I will appreciate.
 # [**DONATE**](https://www.paypal.com/paypalme/RareEarths)

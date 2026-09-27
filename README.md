@@ -1,4 +1,4 @@
-# Rare Earths Website *(v1.0.0, uploaded on 08.08.2026)*
+# Rare Earths Website
 I want to realize my own ideas and my website will collect all of them. Apps, retro games, games and books are the topics! I feel like my ideas are precious and rare, that's why I chose the name "Rare Earths".
 
 ## Description
@@ -15,9 +15,9 @@ I'm glad to provide you my first android app I ever made. It's a simply app show
 
 ## VirusTotal Scan
 This app has been tested with VirusTotal. The results are available here: 
-[VirusTotal Scan Results.](https://www.virustotal.com/gui/file/e3e2134d411cad7c21c1f9de9b828ddd9ab4ec7bcc8149cbf016694b986c4c7a?nocache=1)
+[VirusTotal Scan Results.](https://www.virustotal.com/gui/file/6a596fcb77033444f15134f8fbcc2ad3b52a4c406ae2cc312d4b756a0d1eecce?nocache=1)
 
-<img width="1208" height="184" alt="virusTotal" src="https://github.com/user-attachments/assets/eb85514f-e166-4980-9960-6078c371eee1" />
+<img width="1208" height="181" alt="VirusTotalScan" src="https://github.com/user-attachments/assets/6528b952-b205-4227-b113-18c983533509" />
 <img width="358" height="68" alt="virusTotal2" src="https://github.com/user-attachments/assets/a5107bf2-eb4d-44ee-9b0a-322768acb68c" />
 
 ## Links
